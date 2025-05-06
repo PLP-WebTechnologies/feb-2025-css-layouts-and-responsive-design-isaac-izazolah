@@ -60,7 +60,7 @@ HTML CODES
   </div>
 
   <footer>
-    <p>&copy; 2025 Your Website</p>
+    <p>&copy; Developed by Izazolah</p>
   </footer>
 </body>
 </html>
